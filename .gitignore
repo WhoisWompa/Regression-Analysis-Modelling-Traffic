@@ -1,3 +1,4 @@
 *.pdf
+!report/MH3510_Group_Assignment_anonymised.pdf
 .Rhistory
 .RData
